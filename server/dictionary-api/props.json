@@ -1,0 +1,6 @@
+{
+  "path": "/api/v1.5/tr.json/translate",
+  "host": "https://translate.yandex.net",
+  "key": "trnsl.1.1.20180130T113558Z.c39a08aae40740fe.e2f17f128c51adebbadb8a316e3be1f1dd497f95",
+  "lang": "en-ru"
+}
