@@ -2,7 +2,7 @@
   "name": "bot-ok-maha",
   "version": "1.0.0",
   "description": "bot for ok.ru transtator",
-  "main": "index.js",
+  "main": "server",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server"
