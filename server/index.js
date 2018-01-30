@@ -31,7 +31,6 @@ app.post('/mes',function(req, res) {
             sender.postMes(req.body.recipient.chat_id, mes.toString())
         });
 
-
 });
 
 app.listen(PORT, () =>
