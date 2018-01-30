@@ -3,5 +3,5 @@
   "path_sub": "/graph/me/subscribe?access_token=",
   "path_post": "/graph/me/messages/",
   "access_token": "tkn1UZVQfcUUfsXmEtUe0dAkCE45WuTjsFN7o5wPf7N9v2jtz5y5ajaTtSduzL9j88Oao:CBABAGDMEBABABABA",
-  "access_url": "https://6d2bd66f.ngrok.io/mes"
+  "access_url": "https://jsbot1996.herokuapp.com/mes"
 }
